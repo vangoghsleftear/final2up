@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+
+  font-family: "Piazzolla", serif;
+  font-family: "Poppins", sans-serif;
+}
+
+main {
+  max-width: 900px;
+  margin: 4rem auto 4rem auto;
+
+  display: flex;
+  gap: 3rem;
+  flex-direction: column;
+}
